@@ -7,6 +7,8 @@ The focus is on prompt engineering, user-centric design, and practical problem-s
 
 ## Projects
 
+![Content Roast AI Demo](screenshots/content-roast-1.png)
+
 ### 1. Content Roast AI
 An AI tool that analyzes screenshots of user content and delivers a humorous roast,
 followed by constructive advice and improvement suggestions.
