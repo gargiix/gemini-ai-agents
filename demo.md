@@ -28,6 +28,7 @@ with real user inputs and outputs.
 ### Example Screenshot
 ![Content Roast AI](screenshots/content-roast-1.png)
 
+**Live Demo:** [Open Content Roast AI](https://opal.google/?flow=drive:/1-QmhsV5iSvZnrpAhy5rC2C_GDg_9lLet&shared&mode=app)
 ---
 
 ## Demo 2: Tech Navigator AI
@@ -52,6 +53,7 @@ with real user inputs and outputs.
 ### Example Screenshot
 ![Tech Navigator AI](screenshots/tech-navigator-1.png)
 
+**Live Demo:** [Open Tech Navigator AI](https://gemini.google.com/gem-labs/1KqOAGfX8FjOukg2hz0aKsu1vFJgLGzX-)
 ---
 
 ## Notes
